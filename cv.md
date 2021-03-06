@@ -43,6 +43,21 @@ C1 Advanced English
 
 ***
 
+**Code Example**
+
+` 
+class Submit extends Input{
+	public function __construct(){
+		$this->setAttr('type', 'submit');
+		parent::__construct();
+	}
+}
+
+`
+***
+
+
+
 **Extracurricular Activities** 
 I am а quick learner, open to change and well-organized. Able to prioritize and adapt well to new situations. 
 A member of the Moscow city organization of the Union of Russian Writers.
