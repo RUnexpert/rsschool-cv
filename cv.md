@@ -59,5 +59,6 @@ class Submit extends Input{
 
 
 **Extracurricular Activities** 
-I am а quick learner, open to change and well-organized. Able to prioritize and adapt well to new situations. 
+I am а quick learner, open to change and well-organized and I like to solve tasks. Able to prioritize and adapt well to new situations. 
+My hobby is playing heavy music on an electric guitar.
 A member of the Moscow city organization of the Union of Russian Writers.
